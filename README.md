@@ -4,7 +4,7 @@
 
 ## Screenshots of project
 
-![World Stats Screen](https://user-images.githubusercontent.com/72760503/207289303-fbeac480-a077-416f-a848-b9d650fcd936.jpg | width =100)
+![World Stats Screen](https://user-images.githubusercontent.com/72760503/207289303-fbeac480-a077-416f-a848-b9d650fcd936.jpg =250x250)
 World Stats Screen.
 <br>
 ![Splash Screen](https://user-images.githubusercontent.com/72760503/207289313-f97e201a-df92-404a-8f0d-c5212c93a1cf.jpg)
