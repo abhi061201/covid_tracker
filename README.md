@@ -1,6 +1,11 @@
 # covid_tracker
 * This app gives you realtime data of covid cases across the world and countrywise also. <br />
 * It uses REST APIs to fetch the data.<br />
+* It includes animated Splash Screen.
+* This App is very helpful at time of covid as it gives realtime data of cases.
+## Technology used
+
+ * Flutter SDK 
 
 ## Sample video of Covid Tracker
 
