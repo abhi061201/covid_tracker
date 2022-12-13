@@ -2,6 +2,14 @@
 * This app gives you realtime data of covid cases across the world and countrywise also. <br />
 * It uses REST APIs to fetch the data.<br />
 
+## Sample video of Covid Tracker
+
+
+https://user-images.githubusercontent.com/72760503/207300892-09817ecd-4c11-4363-af04-9fbae2b722bc.mp4
+
+
+<br />
+
 ## Screenshots of project
 
 ![World Stats Screen](https://user-images.githubusercontent.com/72760503/207289303-fbeac480-a077-416f-a848-b9d650fcd936.jpg)
