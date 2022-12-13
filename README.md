@@ -1,6 +1,6 @@
 # covid_tracker
-This app gives you realtime data of covid cases across the world and countrywise also. <br />
-It uses REST APIs to fetch the data.<br />
+* This app gives you realtime data of covid cases across the world and countrywise also. <br />
+* It uses REST APIs to fetch the data.<br />
 
 ## Screenshots of project
 
